@@ -1,4 +1,4 @@
-testing git cherry-pick
+testing git cherry-pick.
 
 1st cp commit.
 
